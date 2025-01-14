@@ -1,1 +1,1 @@
-Personal ZSH setting backup
+Personal ZSH setting backup.
